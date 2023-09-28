@@ -1,6 +1,6 @@
 # wheel-spy
 Hypothesis:
-On the long term SPY index always go up so selling naked puts on SPY will always and up with new high and turning wjeel cycle onto cash
+On the long term SPY index always go up so selling naked puts on SPY will always and up with new high and turning wheel cycle into cash
 
 Strategy:
 1) open short naked weekly ATM put and wait for expiration.
